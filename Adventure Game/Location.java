@@ -1,8 +1,8 @@
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by dev on 8/12/2015.
+/*
+Created by dev on 29/05/2020.
  */
 public class Location {
     private final int locationID;
